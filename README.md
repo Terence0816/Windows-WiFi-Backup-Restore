@@ -1,5 +1,5 @@
 ![Downloads](https://img.shields.io/github/downloads/Terence0816/Windows-WiFi-Backup-Restore/total?label=Downloads&color=success)
-![Release](https://img.shields.io/github/v/release/Terence0816/Windows-WiFi-Backup-Restore?label=Release&color=blue)
+![Version](https://img.shields.io/github/v/tag/Terence0816/Windows-WiFi-Backup-Restore?label=Version&color=blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
 
 # 📶 Windows WiFi Backup Restore
@@ -76,8 +76,11 @@
 
 目前版本：`v1.0.0.0`
 
+上方下載數量徽章會以 GitHub Releases 正式發行檔為準；目前可先從下方下載資料夾直接取得簽名 EXE。
+
 - [前往 Releases / 發行版本頁面](https://github.com/Terence0816/Windows-WiFi-Backup-Restore/releases)
-- [直接下載 WiFiBackupRestore_v1.0.0.0_signed.exe](https://github.com/Terence0816/Windows-WiFi-Backup-Restore/releases/download/v1.0.0.0/WiFiBackupRestore_v1.0.0.0_signed.exe)
+- [開啟下載資料夾](https://github.com/Terence0816/Windows-WiFi-Backup-Restore/tree/main/downloads)
+- [直接下載 WiFiBackupRestore_v1.0.0.0_signed.exe](https://github.com/Terence0816/Windows-WiFi-Backup-Restore/raw/main/downloads/WiFiBackupRestore_v1.0.0.0_signed.exe)
 
 ### 🔎 搜尋關鍵字
 
@@ -166,8 +169,11 @@ It can back up SSID, password, authentication, encryption, and auto-connect sett
 
 Current version: `v1.0.0.0`
 
+The download badge at the top will reflect official GitHub Release assets. For now, you can download the signed EXE directly from the repository downloads folder below.
+
 - [Open the Releases page](https://github.com/Terence0816/Windows-WiFi-Backup-Restore/releases)
-- [Download WiFiBackupRestore_v1.0.0.0_signed.exe directly](https://github.com/Terence0816/Windows-WiFi-Backup-Restore/releases/download/v1.0.0.0/WiFiBackupRestore_v1.0.0.0_signed.exe)
+- [Open the downloads folder](https://github.com/Terence0816/Windows-WiFi-Backup-Restore/tree/main/downloads)
+- [Download WiFiBackupRestore_v1.0.0.0_signed.exe directly](https://github.com/Terence0816/Windows-WiFi-Backup-Restore/raw/main/downloads/WiFiBackupRestore_v1.0.0.0_signed.exe)
 
 ### 🔎 Search Keywords
 
