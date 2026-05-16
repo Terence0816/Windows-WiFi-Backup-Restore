@@ -14,6 +14,12 @@
 
 它可以備份 SSID、密碼、驗證方式、加密方式與自動連線設定，並支援從備份檔中勾選要還原的 WiFi、清除本機 WiFi 記錄，以及依照系統語言自動切換中英文介面。
 
+### 🎬 介紹影片
+
+點擊下方縮圖即可開啟 YouTube 介紹影片：
+
+[![Windows WiFi Backup Restore introduction video](https://img.youtube.com/vi/npmlbRWDeZQ/hqdefault.jpg)](https://youtu.be/npmlbRWDeZQ)
+
 ### ✨ 主要功能
 
 - **備份 WiFi 設定**：匯出已儲存的 SSID、密碼、驗證方式、加密方式與自動連線設定。
@@ -106,6 +112,12 @@ MIT License
 **Windows WiFi Backup Restore** is a portable utility for backing up and restoring saved WiFi settings on Windows. It is designed for **IT administrators**, **support engineers**, and users who need to move WiFi profiles between multiple Windows computers.
 
 It can back up SSID, password, authentication, encryption, and auto-connect settings, then let you restore all or only selected WiFi profiles from a backup file. It also supports clearing local WiFi records and automatically switching the interface between Traditional Chinese and English.
+
+### 🎬 Intro Video
+
+Click the thumbnail below to open the YouTube introduction video:
+
+[![Windows WiFi Backup Restore introduction video](https://img.youtube.com/vi/npmlbRWDeZQ/hqdefault.jpg)](https://youtu.be/npmlbRWDeZQ)
 
 ### ✨ Key Features
 
